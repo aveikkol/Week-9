@@ -1,0 +1,16 @@
+C:\Users\angel\source\repos\DirectoriesAndFiles12\MyWishListFile\bin\Debug\net5.0\MyWishListFile.exe
+C:\Users\angel\source\repos\DirectoriesAndFiles12\MyWishListFile\bin\Debug\net5.0\MyWishListFile.deps.json
+C:\Users\angel\source\repos\DirectoriesAndFiles12\MyWishListFile\bin\Debug\net5.0\MyWishListFile.runtimeconfig.json
+C:\Users\angel\source\repos\DirectoriesAndFiles12\MyWishListFile\bin\Debug\net5.0\MyWishListFile.runtimeconfig.dev.json
+C:\Users\angel\source\repos\DirectoriesAndFiles12\MyWishListFile\bin\Debug\net5.0\MyWishListFile.dll
+C:\Users\angel\source\repos\DirectoriesAndFiles12\MyWishListFile\bin\Debug\net5.0\ref\MyWishListFile.dll
+C:\Users\angel\source\repos\DirectoriesAndFiles12\MyWishListFile\bin\Debug\net5.0\MyWishListFile.pdb
+C:\Users\angel\source\repos\DirectoriesAndFiles12\MyWishListFile\obj\Debug\net5.0\MyWishListFile.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\DirectoriesAndFiles12\MyWishListFile\obj\Debug\net5.0\MyWishListFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\DirectoriesAndFiles12\MyWishListFile\obj\Debug\net5.0\MyWishListFile.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\DirectoriesAndFiles12\MyWishListFile\obj\Debug\net5.0\MyWishListFile.AssemblyInfo.cs
+C:\Users\angel\source\repos\DirectoriesAndFiles12\MyWishListFile\obj\Debug\net5.0\MyWishListFile.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\DirectoriesAndFiles12\MyWishListFile\obj\Debug\net5.0\MyWishListFile.dll
+C:\Users\angel\source\repos\DirectoriesAndFiles12\MyWishListFile\obj\Debug\net5.0\ref\MyWishListFile.dll
+C:\Users\angel\source\repos\DirectoriesAndFiles12\MyWishListFile\obj\Debug\net5.0\MyWishListFile.pdb
+C:\Users\angel\source\repos\DirectoriesAndFiles12\MyWishListFile\obj\Debug\net5.0\MyWishListFile.genruntimeconfig.cache

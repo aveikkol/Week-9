@@ -1,0 +1,16 @@
+C:\Users\angel\source\repos\DirectoriesAndFiles12\DirectoriesAndFiles12\bin\Debug\net5.0\DirectoriesAndFiles12.exe
+C:\Users\angel\source\repos\DirectoriesAndFiles12\DirectoriesAndFiles12\bin\Debug\net5.0\DirectoriesAndFiles12.deps.json
+C:\Users\angel\source\repos\DirectoriesAndFiles12\DirectoriesAndFiles12\bin\Debug\net5.0\DirectoriesAndFiles12.runtimeconfig.json
+C:\Users\angel\source\repos\DirectoriesAndFiles12\DirectoriesAndFiles12\bin\Debug\net5.0\DirectoriesAndFiles12.runtimeconfig.dev.json
+C:\Users\angel\source\repos\DirectoriesAndFiles12\DirectoriesAndFiles12\bin\Debug\net5.0\DirectoriesAndFiles12.dll
+C:\Users\angel\source\repos\DirectoriesAndFiles12\DirectoriesAndFiles12\bin\Debug\net5.0\ref\DirectoriesAndFiles12.dll
+C:\Users\angel\source\repos\DirectoriesAndFiles12\DirectoriesAndFiles12\bin\Debug\net5.0\DirectoriesAndFiles12.pdb
+C:\Users\angel\source\repos\DirectoriesAndFiles12\DirectoriesAndFiles12\obj\Debug\net5.0\DirectoriesAndFiles12.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\DirectoriesAndFiles12\DirectoriesAndFiles12\obj\Debug\net5.0\DirectoriesAndFiles12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\DirectoriesAndFiles12\DirectoriesAndFiles12\obj\Debug\net5.0\DirectoriesAndFiles12.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\DirectoriesAndFiles12\DirectoriesAndFiles12\obj\Debug\net5.0\DirectoriesAndFiles12.AssemblyInfo.cs
+C:\Users\angel\source\repos\DirectoriesAndFiles12\DirectoriesAndFiles12\obj\Debug\net5.0\DirectoriesAndFiles12.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\DirectoriesAndFiles12\DirectoriesAndFiles12\obj\Debug\net5.0\DirectoriesAndFiles12.dll
+C:\Users\angel\source\repos\DirectoriesAndFiles12\DirectoriesAndFiles12\obj\Debug\net5.0\ref\DirectoriesAndFiles12.dll
+C:\Users\angel\source\repos\DirectoriesAndFiles12\DirectoriesAndFiles12\obj\Debug\net5.0\DirectoriesAndFiles12.pdb
+C:\Users\angel\source\repos\DirectoriesAndFiles12\DirectoriesAndFiles12\obj\Debug\net5.0\DirectoriesAndFiles12.genruntimeconfig.cache
